@@ -1,2 +1,2 @@
-# fruits
-A tasty training repository.
+# Welcome to my digital fruit stand
+Anything but icecream.
